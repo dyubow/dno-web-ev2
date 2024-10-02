@@ -1,0 +1,92 @@
+[
+    {
+        "nombre": "Coblu",
+        "fecha": "2024",
+        "signo": "Visual",
+        "fotos": "https://github.com/user-attachments/assets/f8a1a489-3193-4d94-a813-18c61235f6af",
+        "github": "https://github.com/dyubow",
+        "desc": "Diseño UI para una aplicación para contratar servicios dómesticos.",
+        "foto": "https://github.com/user-attachments/assets/b6c2f786-1924-41a2-a996-521a9956ab70"
+    },
+    {
+        "nombre": "Tarjetas Quimioterapia",
+        "fecha": "2024",
+        "signo": "Visual",
+        "fotos": "https://github.com/user-attachments/assets/56337118-ccbb-41a4-a7a5-09f88fe69c7b",
+        "github": "https://github.com/dyubow",
+         "desc": "Trabajo de diseño de información para los pacientes de cáncer pulmonar en el hospital el sótero del río. Se busca ayudar el encontrar un tratamiento, con tarjeta deslizables, fáciles de usar.",
+        "foto": "https://github.com/user-attachments/assets/ef97f77c-0be8-4e42-83b8-a5978abe2bf3"
+    },
+    {
+        "nombre": "Cuentos Zen",
+        "fecha": "2023",
+        "signo": "Editorial",
+        "fotos": "https://github.com/user-attachments/assets/a8834958-a99a-4651-8c72-05e42566742b",
+        "github": "https://github.com/dyubow",
+         "desc": "A partir de una colección de cuentos Zen, se realizó un trabajo editorial en duplas, desde la investigación y conceptualización de la propia cultura Zen. Se trabajó con los conceptos de la emocionalidad y la trascendencia, reflejandolos en cartas dentro del libro.",
+        "foto": "https://github.com/user-attachments/assets/3bfe2eca-6dde-412f-9dc4-d94ee5b989de"
+    },
+    {
+        "nombre": "Frutinez",
+        "fecha": "2023",
+        "signo": "Visual",
+        "fotos": "https://apod.nasa.gov/apod/image/0104/m51_hst.jpg",
+        "github": "https://github.com/dyubow",
+        "desc" : "Tipografía estilo display, fue realizada para tiendas de accesorios con públicos jovénes y alternativos, llamando su atención.",
+        "foto" : "https://github.com/user-attachments/assets/84458fcd-e34d-4168-a6cb-f4b1b420b765"
+    },
+    {
+        "nombre": "Colección STEM",
+        "fecha": "2023",
+        "signo": "Editorial",
+        "fotos": "https://github.com/user-attachments/assets/3fe77c65-86d9-48da-84d2-55d4ca12e45a",
+        "github": "https://github.com/dyubow",
+         "desc": "En colaboración con Mujeres Bacanas y el Ministerio se desarrolló una publicación que busca motivar a niñas a conocer y ser parte del mundo STEM. Se utilizan los conceptos Agenda y personalizar.",
+        "foto": "https://github.com/user-attachments/assets/31ebf41e-fef4-4523-aabc-19a490296d3f"
+    },
+    {
+        "nombre": "Ventana al Universo",
+        "fecha": "2024",
+        "signo": "Visual",
+        "fotos": "https://github.com/user-attachments/assets/80496446-8610-420e-8fb7-5bcdab87ae3e",
+        "github": "https://github.com/dyubow",
+         "desc": "Esta infografía se realizo con el objetivo de introducir a los lectores respecto a la astronomía realizada en Chile, especialmente con el observatorio ALMA, uno de lo más grandes del país y el mundo.",
+        "foto": "https://github.com/user-attachments/assets/66c423d8-d82f-4409-b07c-e9b93e7d3b0b"
+    },
+    {
+        "nombre": "Futura Licenciada",
+        "fecha": "2024",
+        "signo": "Visual",
+        "fotos": "https://github.com/user-attachments/assets/a9373e41-b534-4bdd-9f59-bce31ebeb66b",
+        "github": "https://github.com/franirribarrat",
+        "desc":"Este afiche se realizó a partir del corto Futura Licenciada, distribuido por PRISMA. El afiche debía transmitir la desesperación de una jovén arquitecta.",
+        "foto": "https://github.com/user-attachments/assets/402671a1-bc58-4899-b591-4e8cb9d51f8b"
+    },
+    {
+        "nombre": "Hackear la Ciudad",
+        "fecha": "2024",
+        "signo": "Editorial",
+        "fotos": "https://github.com/user-attachments/assets/6c0a9c75-5dce-4cfc-8604-aa5e325e27fe",
+        "github": "https://github.com/dyubow",
+         "desc": "En base al estudio de iluminación artivista, Delight Lab, se toman sus obras realizadas dentro del sector de la Torre Telefónica, analizando su significado en la democratización de espacios y el rol en el estallido social.",
+        "foto": "https://github.com/user-attachments/assets/adb08a90-6102-48f6-8c5d-287d8f904e67"
+    },
+    {
+        "nombre": "Persona",
+        "fecha": "2024",
+        "signo": "Visual",
+        "fotos": "https://github.com/user-attachments/assets/4ae2cb91-43a2-4be9-be71-f66432016b4e",
+        "github": "https://github.com/dyubow",
+         "desc": "Afiche realizado a partir de la canción Persona de el grupo BTS. Se toma el concepto de persona y sombra de la psicología como analogía.",
+        "foto": "https://github.com/user-attachments/assets/67ec2f2f-42db-4d42-97d5-1be9bc4d8c7c"
+    },
+    {
+        "nombre": "Dulzura natural",
+        "fecha": "2023",
+        "signo": "Producto",
+        "fotos": "https://github.com/user-attachments/assets/aa831d83-5099-4ef2-9fd8-ec16d22ec8d4",
+        "github": "https://github.com/dyubow",
+         "desc": "Línea de productos realizada a partir de Vitamina B12 en polvo de Dulzura Natural.",
+        "foto": "https://github.com/user-attachments/assets/e9331d35-a4ec-4990-a44f-e152903c52e3"
+    }
+]
