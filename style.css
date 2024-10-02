@@ -1,0 +1,142 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap");
+
+html, body {
+    min-height: 100vh;
+    background: linear-gradient(#ffe7f6,#ffdbe9);
+    color: rgba(#3F3B91);
+    margin: 0;
+    padding: 0;
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+ 
+}
+
+aside{
+    position: fixed;
+    top:calc(2rem + 1.5vw);
+    right:calc(1.5rem + 1.5vw);
+}
+
+aside a{
+    color: #EC4174;;
+    text-decoration: none;
+    z-index:9;
+}
+
+header, main{
+    padding: 1rem 2rem;    
+}
+
+header {
+    width: calc(50vw - 4rem);
+}
+
+@media (orientation: portrait) {
+    h1{ margin: 1rem 10rem 1rem 0; line-height:1.1 }
+}
+
+main{
+    width: calc(90vw - 4rem);
+    padding-bottom: 10vh;   
+}
+
+h1 {
+    font-size: calc(1rem + 2vw);
+
+    font-weight: normal;
+    margin-left: -5px;
+    line-height: 1;
+}
+
+h2 {
+    font-size: calc(1.25rem + 2.5vw);
+    font-weight: normal;
+    line-height: 1.5;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+
+select, header > a{
+    letter-spacing: 0.05rem;
+    font-style: italic;
+    font-size:1rem;
+    background:rgba(255,255,255,.1);
+    color:#EC4174;
+    border:1px solid color(#3F3B91);
+    border-radius: 5px;
+    text-decoration: none;
+    margin:0;
+    margin-left:-4px;
+    box-shadow: 0 0 1px rgba(0,0,0,.2);
+font-family: "Space Grotesk", sans-serif;
+
+}
+
+header > a{
+    display:inline-block;
+    padding:.25rem 2.5rem .25rem .5rem;
+    transition:background ease .25s;
+}
+
+header > a:hover{
+    
+   
+    text-decoration: none;
+}
+
+select{
+    padding:0.25rem;
+}
+
+a {
+    color: #EC4174;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #972648;
+}
+
+main div{
+    width:24%;
+    margin:2% 1% 0 0;
+    background:white;
+    display:inline-block;
+    vertical-align: bottom;
+    overflow: hidden;
+    border-radius: 3px;
+}
+
+@media (orientation: portrait) {
+    main div {
+        width:49%;
+    }
+}
+
+main > div > img{
+    width:100%;
+    max-width: 100%;
+}
+
+main > p{
+    max-width:50rem;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+}
+
+main > img{
+    max-width: 100%;
+    margin:1rem 0;
+}
+
+main > div > p{
+    text-align: center;
+    margin-top:0;
+    margin-bottom:.5rem;
+    padding:0;
+}
+
+.esconde{
+    display: none;
+}
