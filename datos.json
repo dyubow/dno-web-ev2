@@ -88,5 +88,23 @@
         "github": "https://github.com/dyubow",
          "desc": "Línea de productos realizada a partir de Vitamina B12 en polvo de Dulzura Natural.",
         "foto": "https://github.com/user-attachments/assets/e9331d35-a4ec-4990-a44f-e152903c52e3"
+    },
+     {
+        "nombre": "Logos Metal",
+        "fecha": "2024",
+        "signo": "Visual",
+        "fotos": "https://github.com/user-attachments/assets/4ae2cb91-43a2-4be9-be71-f66432016b4e",
+        "github": "https://github.com/dyubow",
+         "desc": "Logos de artistas famosos, realizados a partir del estilo Heavy Metal. Se toman los elementos creando un estilo reconocible.",
+        "foto": "https://github.com/user-attachments/assets/d56aa377-bd01-48df-bcc0-7dbbc0a59ed3"
+    },
+    {
+        "nombre": "Aceitunas de Azapa",
+        "fecha": "2023",
+        "signo": "Producto",
+        "fotos": "https://github.com/user-attachments/assets/34fd4062-8bf2-4c9e-8069-1af96dfbdff3",
+        "github": "https://github.com/dyubow",
+         "desc": "Diseño de una línea de productos a partir de las aceitunas de azapa. Se realizan una mantequilla, saleros y cremas. Con una identidad que toma características de Arica y sus tradiciones.",
+        "foto": "https://github.com/user-attachments/assets/1b4ce549-2a6c-4885-9796-8252a034bda3"
     }
 ]
